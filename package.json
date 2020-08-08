@@ -1,5 +1,5 @@
 {
-  "name": "mvc-react-freshchat",
+  "name": "react-freshchat",
   "version": "1.0.12",
   "description": "FreshChat React implementation",
   "main": "build/react-freshchat.js",
