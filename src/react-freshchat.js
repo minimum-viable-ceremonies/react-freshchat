@@ -1,5 +1,6 @@
 import _ from 'lodash/fp'
 import React from 'react'
+import { window } from 'browser-monads'
 
 class Queue {
   constructor() {
